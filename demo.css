@@ -419,8 +419,8 @@ body {
 
 .Description {
   font-weight: 100;
-  font-size: 1rem;
-  opacity: .5;
+  font-size: 1.2rem;
+  opacity: .9;
   text-transform: uppercase;
   animation-name: zoomInDown;
   animation-duration: 1s;

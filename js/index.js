@@ -81,7 +81,9 @@ var TextScramble = function () {
 // Example
 // ——————————————————————————————————————————————————
 
-var phrases = ['Galym,', 'sooner or later', 'you\'re going to realize', 'just as I did', 'that there\'s a difference', 'between knowing the path', 'and walking the path'];
+//var phrases = ['Neo,', 'sooner or later', 'you\'re going to realize', 'just as I did', 'that there\'s a difference', 'between knowing the path', 'and walking the path'];
+
+var phrases = ['Нео,', 'рано или поздно', 'ты поймешь', 'как и я', 'знать путь', 'и пройти его', 'не одно и тоже'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
